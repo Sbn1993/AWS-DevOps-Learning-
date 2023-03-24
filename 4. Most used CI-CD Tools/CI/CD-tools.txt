@@ -1,0 +1,23 @@
+## CI/CD Tools ##
+
+# Jenkins #
+
+https://youtu.be/6YZvp2GwT0A
+
+https://youtu.be/f4idgaq2VqA
+
+# GITLAB CI CD #
+
+https://youtu.be/Typ9U6k6g5s
+
+https://youtu.be/PGyhBwLyK2U
+
+https://youtu.be/qP8kir2GUgo
+
+# GITHUB ACTIONS CI CD #
+
+https://youtu.be/R8_veQiYBjI
+
+https://youtu.be/TLB5MY9BBa4
+
+https://youtu.be/JS07npwL3Ps

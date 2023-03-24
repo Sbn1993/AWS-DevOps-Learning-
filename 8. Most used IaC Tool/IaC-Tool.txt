@@ -1,0 +1,18 @@
+## IaC Tool ##
+
+# Terraform #
+
+https://youtu.be/SLB_c_ayRMo
+
+https://youtu.be/YcJ9IeukJL8
+
+https://youtu.be/iRaai1IBlB0
+
+https://youtu.be/7xngnjfIlK4
+
+
+# Terraform Best Practices #
+
+https://youtu.be/gxPykhPxRW0
+
+https://youtu.be/HaBrObyU-L0

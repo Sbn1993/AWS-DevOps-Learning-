@@ -1,0 +1,15 @@
+## Configuration Management Tool ##
+
+
+# 15 BEST Software Configuration Management Tools (2023) #
+
+https://www.guru99.com/software-configuration-management-tools.html
+
+
+# Ansible Zero-To-Hero #
+
+https://youtube.com/playlist?list=PLh_VNk4-EHTNbb18pkpZy_fnG2Dn0n6QR
+
+https://youtu.be/q8MX_ldXrt8
+
+https://youtu.be/Wr8zAU-0uR4
